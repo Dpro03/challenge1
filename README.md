@@ -13,5 +13,4 @@ Dave's first website.  This website is intended to introduce the viewer to our t
     https://github.com/Dpro03/challenge1.git
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot] Screen Shot 2022-09-18 at 12.28.39 PM-1.png
